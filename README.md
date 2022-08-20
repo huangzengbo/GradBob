@@ -13,3 +13,6 @@ yarn test
 
 1. e2e test (cucumber), but TDD (Unit test) should be enough to cover most of calculations
 2. storybook
+3. errorboundary
+4. inteceotpor
+5. tracking
